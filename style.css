@@ -8,12 +8,12 @@ body{
     background-color: #148cb6;
     background: linear-gradient(
         135deg,
-        rgb(242, 0, 190) 0%,
-        rgb(199, 0, 93) 100%
+        rgb(0, 234, 242) 0%,
+        rgb(228, 5, 5) 100%
     );
 }
 .page-header{
-    margin-top: 4rem;
+    margin-top: 15rem;
     font-size: 1.25rem;
     color: #fff;
 }
@@ -32,7 +32,7 @@ body{
 }
 .feature ul li{
     padding-left: 2rem;
-    background-image: url(flower.jpg);
+    background-image: url(baseball.jpg);
     background-size: 20px;
     background-repeat: no-repeat;
     line-height: 1.5rem;
@@ -50,7 +50,7 @@ body{
     justify-content: center;
 }
 .gallery{
-    background-color: gray ;
+    background-color: rgb(253, 0, 0) ;
 
 }
 .gallery img{
